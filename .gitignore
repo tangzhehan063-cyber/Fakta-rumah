@@ -1,0 +1,6 @@
+out/
+node_modules/
+*.mp4
+*.mov
+cover/*.png
+.DS_Store
