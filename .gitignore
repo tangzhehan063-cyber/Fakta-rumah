@@ -4,3 +4,4 @@ node_modules/
 *.mov
 cover/*.png
 .DS_Store
+__pycache__/
